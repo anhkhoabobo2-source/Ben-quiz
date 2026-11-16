@@ -1,0 +1,8 @@
+{
+  "name": "Talking Ben Lab Quiz",
+  "description": "Interactive Talking Ben quiz game with 2D skeletal bone animation and touch-triggered sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
